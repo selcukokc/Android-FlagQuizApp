@@ -1,5 +1,5 @@
 # FlagQuiz
-A flag quiz app that include 196 countries.
+A flag quiz android app that include 196 countries.
 I use sqlite database for countries. Record/Best Score information is stored in sharedpreferences.
 
 You can't do mistakes more than three.
